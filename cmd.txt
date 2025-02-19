@@ -1,0 +1,7 @@
+python upload_video.py \
+  --file="/home/ash/python/need.mp4" \
+  --title="First time uploading" \
+  --description="Had fun surfing in Santa Cruz" \
+  --keywords="surfing,Santa Cruz" \
+  --category="22" \
+  --privacyStatus="private"
